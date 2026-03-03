@@ -1,6 +1,6 @@
 # 🧠 AI Engineering Roadmap — Zero to Hero
 
-> A **16-week self-study roadmap** covering the complete AI Engineering stack — from neural network fundamentals to production-grade LLM applications. Inspired by the [AI Engineering Cohort by Gaurav Sen](https://aiengg.dev/).
+> A **16-week self-study roadmap** covering the complete AI Engineering stack — from neural network fundamentals to production-grade LLM applications.
 
 ## 🎯 Who This Is For
 
