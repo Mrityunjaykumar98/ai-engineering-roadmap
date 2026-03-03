@@ -4,9 +4,32 @@
 
 ## 🎯 Who This Is For
 
-Software engineers who want to **deeply understand AI systems** — not just use APIs, but know what's happening under the hood and build reliable AI applications.
+**Full Stack Developers** and Software Engineers who want to **integrate AI into real products** — and understand enough under the hood to make smart architectural decisions.
+
+> 💡 **The Secret:** Most AI Engineers today don't use Calculus daily. They use **APIs, Vector Databases, and Orchestration frameworks** (like LangChain). As a Full Stack dev, your biggest value is **AI Integration** — building the application layer around AI models, not training models from scratch.
 
 **Prerequisites:** Basic programming knowledge, familiarity with Python, understanding of data structures.
+
+---
+
+## 🎯 Full Stack Developer Priority Guide
+
+Not all weeks are equal. Here's how to prioritize as an **integration-focused AI engineer:**
+
+| Priority | Weeks | What It Is | Why It Matters |
+|---|---|---|---|
+| 🔴 **CRITICAL** | 7–8 | RAG & Vector Databases | Core skill — you'll use this in 90% of AI features |
+| 🔴 **CRITICAL** | 9–10 | Agents, Tool Calling, MCP | The future of AI apps — agents that DO things |
+| 🔴 **CRITICAL** | 11 | Evals & Reliability | Ship AI that actually works in production |
+| 🟡 **HIGH** | 6 | Fine-tuning (LoRA/QLoRA) | When prompting + RAG isn't enough |
+| 🟡 **HIGH** | 16 | AI Engineering Principles | Best practices for production systems |
+| 🟡 **HIGH** | 15 | Capstone Project | Prove you can build end-to-end |
+| 🟢 **USEFUL** | 1–3 | Neural Networks & Attention | Understand what LLMs do under the hood |
+| 🟢 **USEFUL** | 4–5 | Transformers & Training | Deep understanding (not daily work) |
+| 🟢 **USEFUL** | 12 | Reasoning Models | How to use o1/DeepSeek effectively |
+| 🔵 **NICE TO KNOW** | 13–14 | Image/Video & Diffusion | Useful for multimodal features |
+
+> **Recommended path if short on time:** Weeks 1–2 (skim) → Weeks 7–11 (deep dive) → Week 6 → Week 15–16
 
 ---
 

@@ -2,7 +2,9 @@
 
 > **Goal:** Ramp up your understanding of LLMs, their learning methods, neural network basics, and scaling laws.
 
----
+> 🧑‍💻 **Full Stack Dev Note:** You won't code neural networks daily, but understanding **how LLMs learn** helps you debug AI features, choose the right model, and have intelligent conversations with ML teams. Skim the math, focus on intuition.
+
+
 
 ## 📋 Topics Covered
 

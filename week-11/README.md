@@ -2,7 +2,9 @@
 
 > **Goal:** Learn how to build an evaluation framework, use LLM as a judge, and make tradeoffs between fine-tuning, prompting, and RAG.
 
----
+> 🔴 **Full Stack Dev: EVALS = TESTS FOR AI.** You'd never ship a backend without unit tests. Same logic applies here. Without evals, every prompt change is a gamble. This week teaches you how to build the CI/CD pipeline equivalent for AI features.
+
+
 
 ## 📋 Topics Covered
 

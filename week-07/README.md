@@ -2,7 +2,9 @@
 
 > **Goal:** Learn chunking strategies, data ingestion, reranking, indexing, vector databases, and other techniques for RAG.
 
----
+> 🔴 **Full Stack Dev: THIS IS YOUR #1 SKILL.** RAG is how you add AI to 90% of real products — search over docs, customer support, knowledge bases, internal tools. You already know databases; vector databases are just databases optimized for similarity search. LangChain/LlamaIndex are your Express.js/Django equivalents for AI.
+
+
 
 ## 📋 Topics Covered
 

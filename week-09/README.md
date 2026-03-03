@@ -2,7 +2,9 @@
 
 > **Goal:** Learn what an Agent is, how they are different from plain LLMs, Tool Calling, ReAct pattern, and Agent Orchestration.
 
----
+> 🔴 **Full Stack Dev: THIS CHANGES EVERYTHING.** Agents turn LLMs from "text generators" into "things that DO stuff." Tool calling = your LLM can invoke your REST APIs, query your database, send emails. Think of agents as the backend orchestrator for AI features. LangGraph is your state machine for AI workflows.
+
+
 
 ## 📋 Topics Covered
 
